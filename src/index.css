@@ -7,12 +7,13 @@
 
 body {
   font-family: "redHat", sans-serif;
+  background-color: var(--color-rose-100);
 }
 
 
 :root {
 
-  --color-primary: hsl(14, 86%, 42%);
+  --color-primary-red: hsl(14, 86%, 42%);
   --color-green-primary: hsl(159, 69%, 38%);
 
   --color-rose-50: hsl(20, 50%, 98%);
